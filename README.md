@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi there, I'm Panakj 👋
 
+I have a background in computer science, with a Bachelor of Engineering (BE) degree. My expertise spans HTML, CSS, JavaScript, React, and Node.js, and I’ve developed various web development projects using the MERN stack. I am passionate about coding and always strive to expand my knowledge and skills. My work ethic is driven by curiosity and a love for problem-solving, and I’m dedicated to creating efficient and innovative solutions. I also enjoy exploring new technologies to stay ahead in the ever-evolving tech world.
 <!--
 **pankajmokashi/pankajmokashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
