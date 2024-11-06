@@ -30,3 +30,6 @@ A passionate web developer and BE graduate in Computer Science, with a love for 
 - **Portfolio:** https://pankajmokashi.netlify.app/
 
 Let’s build, learn, and grow together! 🚀
+
+
+[![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajmokashi)](https://github.com/pankajmokashi/github-readme-stats)
