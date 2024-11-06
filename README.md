@@ -1,24 +1,32 @@
 # Hi there, I'm Panakj 👋
 
-I have a background in computer science, with a Bachelor of Engineering (BE) degree. My expertise spans HTML, CSS, JavaScript, React, and Node.js, and I’ve developed various web development projects using the MERN stack. I am passionate about coding and always strive to expand my knowledge and skills. My work ethic is driven by curiosity and a love for problem-solving, and I’m dedicated to creating efficient and innovative solutions. I also enjoy exploring new technologies to stay ahead in the ever-evolving tech world.
+A passionate web developer and recent BE graduate in Computer Science, with a love for coding and continuous learning.
 
-- 🔭 I’m currently working on **MERN stack projects** that focus on both frontend and backend development.
-- 🌱 I’m currently learning **TypeScript** and exploring **Next.js** to build even more efficient, scalable applications.
-- 👯 I’m looking to collaborate on **open-source projects** related to web development, especially those involving JavaScript frameworks.
-- 🤔 I’m looking for help with **best practices in full-stack development** and **advanced deployment techniques**.
-- 💬 Ask me about **JavaScript, React, Node.js, and anything related to MERN stack!**
-- 📫 How to reach me: [pankajmokashi12@gmail.com](pankajmokashi12@gmail.com) | [https://www.linkedin.com/in/pankajmokashi/](https://www.linkedin.com/in/pankajmokashi/)
-<!--
-**pankajmokashi/pankajmokashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 About Me
+- 🌐 Full-stack developer focused on building responsive and dynamic web applications using **HTML, CSS, JavaScript, React, Node.js**, and the **MERN stack**.
+- 🧠 Lifelong learner constantly exploring new tools, frameworks, and best practices to stay current with industry trends.
+- 💻 Strong foundation in **computer science**, and enthusiastic about solving complex challenges through code.
 
-Here are some ideas to get you started:
+#### 🎯 Goals & Interests
+- 🎓 Currently diving deeper into **TypeScript** and **Next.js** to expand my full-stack skills.
+- 🛠️ Interested in contributing to **open-source projects** and **collaborating** with other developers to create impactful applications.
+- 🌱 Passionate about **clean code** and **design patterns** that enhance maintainability and scalability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Technologies & Tools
+- **Frontend:** HTML, CSS, JavaScript, React, Redux
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **DevOps:** Git, GitHub
+- **Others:** REST APIs, Agile Methodology
+
+#### 🤝 Open to Collaboration On
+- 🌍 Full-stack or frontend projects with a social impact
+- 📊 Web apps that leverage data visualization and user interactivity
+- 🔍 JavaScript frameworks, libraries, and tools to streamline workflows
+
+#### 📫 Connect With Me
+- **Email:** pankajmokashi12@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/pankajmokashi/
+- **Portfolio:** https://pankajmokashi.netlify.app/
+
+Let’s build, learn, and grow together! 🚀
