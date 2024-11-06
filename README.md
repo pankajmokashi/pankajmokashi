@@ -32,5 +32,5 @@ A passionate web developer and BE graduate in Computer Science, with a love for 
 Let’s build, learn, and grow together! 🚀
 
 
-[![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajmokashi)](https://github.com/pankajmokashi/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajmokashi&size_weight=0.5&count_weight=0.5)
+[![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajmokashi)](https://github.com/pankajmokashi/github-readme-stats&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajmokashi&layout=compact&theme=transparen)
