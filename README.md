@@ -1,6 +1,6 @@
-# Hi there, I'm Panakj 👋
+# Hi there, I'm Pankaj 👋
 
-A passionate web developer and recent BE graduate in Computer Science, with a love for coding and continuous learning.
+A passionate web developer and BE graduate in Computer Science, with a love for coding and continuous learning.
 
 #### 🚀 About Me
 - 🌐 Full-stack developer focused on building responsive and dynamic web applications using **HTML, CSS, JavaScript, React, Node.js**, and the **MERN stack**.
