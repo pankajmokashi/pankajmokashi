@@ -1,6 +1,13 @@
 # Hi there, I'm Panakj 👋
 
 I have a background in computer science, with a Bachelor of Engineering (BE) degree. My expertise spans HTML, CSS, JavaScript, React, and Node.js, and I’ve developed various web development projects using the MERN stack. I am passionate about coding and always strive to expand my knowledge and skills. My work ethic is driven by curiosity and a love for problem-solving, and I’m dedicated to creating efficient and innovative solutions. I also enjoy exploring new technologies to stay ahead in the ever-evolving tech world.
+
+- 🔭 I’m currently working on **MERN stack projects** that focus on both frontend and backend development.
+- 🌱 I’m currently learning **TypeScript** and exploring **Next.js** to build even more efficient, scalable applications.
+- 👯 I’m looking to collaborate on **open-source projects** related to web development, especially those involving JavaScript frameworks.
+- 🤔 I’m looking for help with **best practices in full-stack development** and **advanced deployment techniques**.
+- 💬 Ask me about **JavaScript, React, Node.js, and anything related to MERN stack!**
+- 📫 How to reach me: [Email](pankajmokashi12@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/pankajmokashi/)
 <!--
 **pankajmokashi/pankajmokashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
