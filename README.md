@@ -7,7 +7,7 @@ I have a background in computer science, with a Bachelor of Engineering (BE) deg
 - 👯 I’m looking to collaborate on **open-source projects** related to web development, especially those involving JavaScript frameworks.
 - 🤔 I’m looking for help with **best practices in full-stack development** and **advanced deployment techniques**.
 - 💬 Ask me about **JavaScript, React, Node.js, and anything related to MERN stack!**
-- 📫 How to reach me: [Email](pankajmokashi12@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/pankajmokashi/)
+- 📫 How to reach me: [pankajmokashi12@gmail.com](pankajmokashi12@gmail.com) | [https://www.linkedin.com/in/pankajmokashi/](https://www.linkedin.com/in/pankajmokashi/)
 <!--
 **pankajmokashi/pankajmokashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
