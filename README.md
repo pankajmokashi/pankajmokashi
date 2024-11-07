@@ -1,6 +1,6 @@
 # Hi there, I'm Pankaj 👋
 
-A passionate web developer and BE graduate in Computer Science, with a love for coding and continuous learning.
+Passionate web developer and BE graduate in Computer Science, with a love for coding and continuous learning.
 
 #### 🚀 About Me
 - 🌐 Full-stack developer focused on building responsive and dynamic web applications using **HTML, CSS, JavaScript, React, Node.js**, and the **MERN stack**.
@@ -27,7 +27,7 @@ A passionate web developer and BE graduate in Computer Science, with a love for 
 #### 📫 Connect With Me
 - **Email:** pankajmokashi12@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/pankajmokashi/
-- **Portfolio:** https://pankajmokashi.netlify.app/
+- **Portfolio:** https://pankaj-mokashi-portfolio.vercel.app
 
 Let’s build, learn, and grow together! 🚀
 
